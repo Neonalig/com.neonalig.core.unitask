@@ -1,0 +1,17 @@
+{
+    "name": "Neonalig.Core.UniTask.Runtime",
+    "rootNamespace": "Neonalig.Core.UniTask",
+    "references": [
+        "GUID:7e4d44d4ae91a5f49a7eaee7fe550f46",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

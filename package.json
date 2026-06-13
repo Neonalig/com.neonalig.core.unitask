@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.neonalig.core.unitask",
+  "version": "1.0.0",
+  "displayName": "Neonalig Core - UniTask",
+  "description": "UniTask extensions for Neonalig Core.",
+  "unity": "2021.3",
+  "keywords": ["core", "utilities", "singleton", "debug", "extensions", "async", "UniTask"],
+  "author": {
+    "name": "Neonalig"
+  },
+  "dependencies": {
+    "com.neonalig.core": "1.1.0",
+    "com.neonalig.polyfills": "1.0.0",
+    "com.cysharp.unitask": "2.5.10"
+  }
+}
